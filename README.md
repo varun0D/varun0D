@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Varun 👋<br><br>Software Engineer passionate about backend development with Java and Spring Boot.<br><br>- Java • Spring Boot • SQL • REST APIs<br>- Exploring Microservices, Docker, AWS & System Design<br>- Building scalable and reliable applications
+## Hi, I'm Varun 👋<br><br>Software Engineer passionate about backend development with Java and Spring Boot.<br><br><br>- Building scalable and reliable applications
 
 
 # 💻 Tech Stack:
